@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This app displays a menu of pizzas.
+
+<img src="./src/pizzamenu.png" alt="App Image">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
